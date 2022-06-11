@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c8d5400-ca2d-4fd6-8baa-5c490ef7d6ad" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2APXQbv8GOK4TNcAOaZfl9hlTE0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.sait.bankonit.application.AppDriver (2)">
+    <configuration name="AppDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sait.bankonit.application.AppDriver" />
+      <module name="CPRG251_A2_Lichwa_Humeniuk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sait.bankonit.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sait.bankonit.application.AppDriver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sait.bankonit.application.AppDriver" />
+      <module name="CPRG251_A2_Lichwa_Humeniuk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sait.bankonit.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sait.bankonit.application.AppDriver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sait.bankonit.application.AppDriver" />
+      <module name="CPRG251_A2_Lichwa_Humeniuk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sait.bankonit.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sait.bankonit.application.AppDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sait.bankonit.application.AppDriver" />
+      <module name="CPRG251_A2_Lichwa_Humeniuk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sait.bankonit.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sait.bankonit.application.AppDriver (2)" />
+        <item itemvalue="Application.sait.bankonit.application.AppDriver (1)" />
+        <item itemvalue="Application.sait.bankonit.application.AppDriver" />
+        <item itemvalue="Application.AppDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c8d5400-ca2d-4fd6-8baa-5c490ef7d6ad" name="Changes" comment="" />
+      <created>1654912185108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654912185108</updated>
+      <workItem from="1654912186475" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
